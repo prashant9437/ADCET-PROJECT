@@ -1,0 +1,51 @@
+
+body{
+    font-family:sans-serif;
+    margin: 0px;
+    padding: 0px;
+    
+}
+.navi {
+background-image:url(./school.jpeg);
+color: white;
+text-align: center;
+height:450px;
+width: 100%;
+margin top: -10px;
+}
+
+}
+.text{
+    font-size: 50px;
+    color: white;
+}
+.btn1{
+background-color: orangered;
+border-radius: 2px;
+padding:5px;
+color: #fff;
+border: none;
+border-radius: 10px;
+
+}
+.btn2{
+    background-color:orangered;
+    color: #fff;
+    border: none;
+    padding:5px 11px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin-top: 0px;
+
+}
+.center{
+    align-items: center;
+ 
+    
+}
+img{
+    width: 150px;
+    margin-right: 10px;
+    margin: top -4px;
+}
